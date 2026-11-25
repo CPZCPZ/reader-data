@@ -112,10 +112,10 @@
     "synced": true,
     "progress": {
       "type": "cfi",
-      "value": "epubcfi(/6/4!/4/2/1:0)",
-      "percent": 8,
+      "value": "epubcfi(/6/24!/4/208[sigil_toc_id_10]/1:0)",
+      "percent": 48,
       "device": "Linux",
-      "updatedAt": 1795574824840
+      "updatedAt": 1795576430481
     }
   },
   {
